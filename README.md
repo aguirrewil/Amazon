@@ -15,4 +15,4 @@ Então o usuário clica em prime
 
 Dado que o usuário pesquisou por 'lápis de cor'
 E a página retornou resultados
-Então cada item retornado vai apresentar nome, classificação preço e opções de frete
+Então cada item retornado vai apresentar nome, classificação preço e opções de frete.
