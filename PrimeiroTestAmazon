@@ -1,1 +1,16 @@
+package Amazon;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class PrimeiroTestAmazon {
+
+	
+
+		public static void main(String[] args) {
+			WebDriver driver = new FirefoxDriver();
+			driver.get("https://www.amazon.com.br/");
+			System.out.println(driver.getTitle());
+
+	}
+	}
 
